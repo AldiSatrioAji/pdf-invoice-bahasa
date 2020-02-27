@@ -50,7 +50,7 @@ contain 2 products and a box on the bottom with VAT and total price. Then we add
 right before the output.
 
 ```php
-use Konekt\PdfInvoice\InvoicePrinter;
+use Aldisa\PdfInvoice\InvoicePrinter;
 
   $invoice = new InvoicePrinter();
   
@@ -91,7 +91,7 @@ use Konekt\PdfInvoice\InvoicePrinter;
 ### Create Instances
 
 ```php
-use Konekt\PdfInvoice\InvoicePrinter;
+use Aldisa\PdfInvoice\InvoicePrinter;
 
 // Default Param: Size: A4, Currency: $, Language: en
 $invoice = new InvoicePrinter($size, $currency, $language); 

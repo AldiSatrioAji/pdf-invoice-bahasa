@@ -9,7 +9,7 @@
  *
  */
 
-namespace Konekt\PdfInvoice;
+namespace Aldisa\PdfInvoice;
 
 use FPDF;
 

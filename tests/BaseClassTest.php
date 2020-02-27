@@ -10,10 +10,10 @@
  */
 
 
-namespace Konekt\PdfInvoice\Tests;
+namespace Aldisa\PdfInvoice\Tests;
 
 
-use Konekt\PdfInvoice\InvoicePrinter;
+use Aldisa\PdfInvoice\InvoicePrinter;
 use PHPUnit\Framework\TestCase;
 
 class BaseClassTest extends TestCase
