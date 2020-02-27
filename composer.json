@@ -1,16 +1,16 @@
 {
     "name": "aldisa/pdf-invoice",
-    "description": "Library to generate PDF invoices",
+    "description": "Library to generate PDF invoices, it's originally made by farjadtahir/pdf-invoicr. I just add my own language into it",
     "type": "library",
     "license": "GPL-2.0-or-later",
-    "keywords": ["invoice", "pdf", "konekt", "artkonekt"],
+    "keywords": ["invoice", "pdf", "konekt", "artkonekt", "aldisa"],
     "support": {
         "source": "https://github.com/AldiSatrioAji/pdf-invoice"
     },
     "authors": [
         {
-            "name": "Attila Fulop",
-            "homepage": "https://github.com/fulopattila122"
+            "name": "Aldi SA",
+            "homepage": "https://github.com/AldiSatrioAji"
         }
     ],
     "require": {
