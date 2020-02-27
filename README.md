@@ -18,7 +18,7 @@ into any well known CMS.
 
 ### Multi-languages & Currencies
 
-PHP Invoice has built in translations in English, Dutch, French, German, Spanish and Italian (you
+PHP Invoice has built in translations in Indonesia (New added), English, Dutch, French, German, Spanish and Italian (you
 can easily add your own if needed) and you can set the currency needed per document.
 
 ### Additional Titles, Paragraphs And Badges
@@ -29,7 +29,7 @@ might use it for payment or shipping information or any other content needed.
 ## Installation
 
 ```bash
-composer require konekt/pdf-invoice
+composer require aldisa/pdf-invoice
 ```
 
 ## Examples
